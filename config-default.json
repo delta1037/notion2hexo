@@ -1,0 +1,10 @@
+{
+  "notion_key": "secret_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "local_dir": "./hexo",
+  "blog_db_id": "888888888888888888888888888888888",
+  "oss_access_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "oss_access_key_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "oss_endpoint": "oss-cn-beijing.aliyuncs.com",
+  "bucket_name": "bucket_name",
+  "upload_prefix": "upload_prefix/"
+}
